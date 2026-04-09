@@ -60,4 +60,4 @@ Sistema web fullstack para la gestión integral de bares. Incluye control de sto
 
 ## 📫 Contacto
 
-<!-- agregá tu info acá -->
+andrescaporale11@hotmail.com
